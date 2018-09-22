@@ -1,4 +1,4 @@
-defmodule Yggdrasil.Publisher.Adapter.Graphql do
+defmodule Yggdrasil.Publisher.Adapter.GraphQL do
   @moduledoc false
   use Yggdrasil.Publisher.Adapter
 
